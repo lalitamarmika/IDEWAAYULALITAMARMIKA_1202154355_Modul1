@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="text_header">Makan Malam</string>
+    <string name="text_header2">dengan Milea</string>
+    <string name="input_menu_here">Input menu here</string>
+    <string name="input_amount_here">input amount here</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="menu">Menu</string>
+</resources>
